@@ -13,14 +13,13 @@
 from twilio.rest import Client
 #ex) sendText(9413437452, 'Hello World!')
 def sendText(number, text):
-	accountSID = 'AC03ecd1527d8cac7a5fb6cffb10b8ab2e'
-	authToken = '0f34d44dff1f9572cb51c3d1514bd00d'
+	accountSID = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+	authToken = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 	twilioCli = Client(accountSID, authToken)
-	myTwilioNumber = '+19412200945'
-	myCellPhone = '+19413437452'
+	myTwilioNumber = '+XXXXXXXXXXX'
+	myCellPhone = '+XXXXXXXXXXX'
 
 
-	#recipientPhoneNumber = '9413437452'
 	recipientPhoneNumber = number
 
 
