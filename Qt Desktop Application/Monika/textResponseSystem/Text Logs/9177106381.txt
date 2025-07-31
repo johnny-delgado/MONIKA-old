@@ -1,0 +1,8 @@
+Name	Alex
+Opinion	20
+Timestamp	2018-11-15T23:31:54
+
+Introduction	1
+FaqListOpen	0
+UnableToUnderstand	0
+ImportantAlertRequested	1

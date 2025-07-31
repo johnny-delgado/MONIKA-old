@@ -1,0 +1,8 @@
+Name	Caleb
+Opinion	20
+Timestamp	2018-12-23T17:02:42
+
+Introduction	1
+FaqListOpen	1
+UnableToUnderstand	0
+ImportantAlertRequested	1

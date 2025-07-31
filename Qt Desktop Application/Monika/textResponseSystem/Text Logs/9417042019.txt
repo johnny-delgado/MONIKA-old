@@ -1,0 +1,8 @@
+Name	Dr. Barrett
+Opinion	20
+Timestamp	2019-03-14T14:38:16
+
+Introduction	1
+FaqListOpen	1
+UnableToUnderstand	0
+ImportantAlertRequested	1

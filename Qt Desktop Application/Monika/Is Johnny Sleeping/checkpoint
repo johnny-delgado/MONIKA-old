@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/Johnny/Monika/Tensor Flow Tests/TrainedSleepPredictionSess"
+all_model_checkpoint_paths: "/Users/Johnny/Monika/Tensor Flow Tests/TrainedSleepPredictionSess"

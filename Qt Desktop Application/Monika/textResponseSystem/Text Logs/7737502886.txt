@@ -1,0 +1,8 @@
+Name	7737502886
+Opinion	20
+Timestamp	2018-11-16T00:22:43
+
+Introduction	1
+FaqListOpen	1
+UnableToUnderstand	1
+ImportantAlertRequested	1

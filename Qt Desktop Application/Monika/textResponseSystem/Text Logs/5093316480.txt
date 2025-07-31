@@ -1,0 +1,8 @@
+Name	Gamy
+Opinion	20
+Timestamp	2018-11-26T17:07:45
+
+Introduction	1
+FaqListOpen	0
+UnableToUnderstand	1
+ImportantAlertRequested	0

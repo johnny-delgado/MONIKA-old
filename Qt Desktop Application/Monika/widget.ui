@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Widget</class>
+ <widget class="QWidget" name="Widget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1660</width>
+    <height>260</height>
+   </rect>
+  </property>
+  <property name="focusPolicy">
+   <enum>Qt::NoFocus</enum>
+  </property>
+  <property name="windowTitle">
+   <string>Widget</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true"/>
+  </property>
+  <widget class="QLabel" name="dialogueBox">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>16777215</width>
+     <height>16777215</height>
+    </rect>
+   </property>
+   <property name="sizePolicy">
+    <sizepolicy hsizetype="Maximum" vsizetype="Maximum">
+     <horstretch>0</horstretch>
+     <verstretch>0</verstretch>
+    </sizepolicy>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(209, 156, 255);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="dialogueLabel">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>40</y>
+     <width>561</width>
+     <height>151</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Text Here</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>1490</x>
+     <y>180</y>
+     <width>161</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>You have __ unread texts.</string>
+   </property>
+  </widget>
+  <widget class="QListWidget" name="notificationsList">
+   <property name="geometry">
+    <rect>
+     <x>660</x>
+     <y>30</y>
+     <width>501</width>
+     <height>192</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>16</pointsize>
+    </font>
+   </property>
+   <property name="focusPolicy">
+    <enum>Qt::NoFocus</enum>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="selectionMode">
+    <enum>QAbstractItemView::SingleSelection</enum>
+   </property>
+   <item>
+    <property name="text">
+     <string>hello</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>ewq</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>dd</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>New Item</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>dqewff</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>awd</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>wfefwe</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>e</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>fqwwfe</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>qewq</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>f</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>qef</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>asda</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>asdasda</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>afwasdas</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>greergger</string>
+    </property>
+   </item>
+  </widget>
+  <widget class="QPushButton" name="deleteNotification">
+   <property name="geometry">
+    <rect>
+     <x>660</x>
+     <y>220</y>
+     <width>181</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgba(253, 149, 140, 133);</string>
+   </property>
+   <property name="text">
+    <string>delete notification</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>1180</x>
+     <y>10</y>
+     <width>221</width>
+     <height>101</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>if none are clicked it will use the NN to guess but these buttons are so I can manually set it. pressing one will turn off the others and pressing one that's on will turn them all off so the system can rely on the NN</string>
+   </property>
+   <property name="wordWrap">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>1080</x>
+     <y>160</y>
+     <width>271</width>
+     <height>101</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>have the 'other' radiop button bring up a popup window when toggled on that allows me to set a custom state (ex. on vacation). maybe replace the napping button with the cusrtom one. also when i type my state it will change the label of the radio button</string>
+   </property>
+   <property name="wordWrap">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QWidget" name="formLayoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>1480</x>
+     <y>30</y>
+     <width>141</width>
+     <height>101</height>
+    </rect>
+   </property>
+   <layout class="QFormLayout" name="formLayout_2">
+    <item row="0" column="0">
+     <widget class="QRadioButton" name="availableStatus">
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+    </item>
+    <item row="0" column="1">
+     <widget class="QLabel" name="availableLabel">
+      <property name="text">
+       <string>Available</string>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="0">
+     <widget class="QRadioButton" name="busyStatus">
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+    </item>
+    <item row="2" column="0">
+     <widget class="QRadioButton" name="sleepingStatus">
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+    </item>
+    <item row="2" column="1">
+     <widget class="QLabel" name="sleepingLabel">
+      <property name="text">
+       <string>Sleeping</string>
+      </property>
+     </widget>
+    </item>
+    <item row="3" column="0">
+     <widget class="QRadioButton" name="nappingStatus">
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+    </item>
+    <item row="3" column="1">
+     <widget class="QLabel" name="nappingLabel">
+      <property name="text">
+       <string>Napping</string>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="1">
+     <widget class="QLineEdit" name="busyLabel">
+      <property name="sizePolicy">
+       <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+        <horstretch>0</horstretch>
+        <verstretch>0</verstretch>
+       </sizepolicy>
+      </property>
+      <property name="autoFillBackground">
+       <bool>true</bool>
+      </property>
+      <property name="styleSheet">
+       <string notr="true"/>
+      </property>
+      <property name="text">
+       <string>busy</string>
+      </property>
+      <property name="frame">
+       <bool>false</bool>
+      </property>
+      <property name="cursorPosition">
+       <number>4</number>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>

@@ -1,0 +1,8 @@
+Name	9416815464
+Opinion	20
+Timestamp	2019-03-16T13:32:28
+
+Introduction	1
+FaqListOpen	1
+UnableToUnderstand	1
+ImportantAlertRequested	0

@@ -1,0 +1,8 @@
+Name	Jimmy
+Opinion	20
+Timestamp	2019-03-16T13:26:05
+
+Introduction	1
+FaqListOpen	0
+UnableToUnderstand	0
+ImportantAlertRequested	1

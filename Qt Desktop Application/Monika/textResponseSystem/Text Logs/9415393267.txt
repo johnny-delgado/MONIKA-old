@@ -1,0 +1,8 @@
+Name	Daniel
+Opinion	20
+Timestamp	2018-11-23T14:26:15
+
+Introduction	1
+FaqListOpen	0
+UnableToUnderstand	1
+ImportantAlertRequested	0

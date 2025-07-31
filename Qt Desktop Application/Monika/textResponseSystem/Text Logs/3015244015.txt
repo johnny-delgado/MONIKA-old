@@ -1,0 +1,8 @@
+Name	Jared
+Opinion	20
+Timestamp	2019-01-26T14:50:00
+
+Introduction	1
+FaqListOpen	0
+UnableToUnderstand	0
+ImportantAlertRequested	0
